@@ -1,0 +1,8 @@
+-e .
+aws-cdk.core
+aws-cdk.aws-apigateway
+aws-cdk.aws-iam
+aws-cdk.aws-lambda
+aws-cdk.aws-wafv2
+aws-cdk.aws-events
+aws-cdk.aws-events-targets
