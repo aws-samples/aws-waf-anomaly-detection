@@ -1,7 +1,7 @@
 
-# Welcome to your CDK Python project!
+# Welcome to AWS WAF Anomaly Detection CDK project!
 
-This is a blank project for Python development with CDK.
+This is an aws-sample project to present AWS WAF Anomaly Detection using Amazon Cloudwatch for Metrics.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
